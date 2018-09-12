@@ -1,0 +1,23 @@
+PODS:
+  - dlib (19.4)
+  - OpenCV (3.2.0):
+    - OpenCV/Dynamic (= 3.2.0)
+  - OpenCV/Dynamic (3.2.0)
+
+DEPENDENCIES:
+  - dlib (~> 19.4)
+  - OpenCV (~> 3.2.0)
+
+SPEC REPOS:
+  https://github.com/AntonKiselevCORE/dlib-podspec.git:
+    - dlib
+  https://github.com/cocoapods/specs.git:
+    - OpenCV
+
+SPEC CHECKSUMS:
+  dlib: 33592fa6894326bdab3842308ba946109428976f
+  OpenCV: 0f7ab403d1e81769bc6f4f524c3c6928ecb1fdb8
+
+PODFILE CHECKSUM: 6c9497d931c019d67a56dcf48e9e247289f5d788
+
+COCOAPODS: 1.5.3
